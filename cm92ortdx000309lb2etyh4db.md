@@ -81,7 +81,7 @@ SaaS is a service **over the internet**, accessible **through a web browser**.
 
 ## What types of cloud are there ?
 
-### Types of Cloud ☁
+### Types of Cloud. ☁
 
 Clouds are categorized into Public, Private, and Hybrid models.
 
