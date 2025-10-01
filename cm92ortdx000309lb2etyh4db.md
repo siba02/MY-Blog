@@ -19,13 +19,13 @@ Cloud computing is the delivery of computing services that includes servers, sto
 
 It gives your business more flexibility:
 
-* Highly automated
+* Highly automated.
     
-* Lower capital expenditure
+* Lower capital expenditure.
     
-* Easy deployment
+* Easy deployment.
     
-* Reliability, scalability, sustainability
+* Reliability, scalability, sustainability.
     
 * **Pay as you use**
     
